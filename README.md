@@ -6,14 +6,13 @@
 
 当然，编辑时难免有疏漏，请各位海涵。如果发现有谬误恳请提交 issue，谢谢！
 
-本教程分为 4 个 Part，请有需要的同志自取：
+本教程分为 3 个 Part，请有需要的同志自取：
 
 ### 目录
 
 1. Part I 机场选购指南
-2. Part II AI 节点搭建指南
-3. Part III AI 入门指南
-4. Part IV Emby 指南
+2. Part II AI（简介 | 防封号 | 一站式检测）
+4. Part III Emby 指南
 
 
-## Part I
+## Part I 机场选购指南
