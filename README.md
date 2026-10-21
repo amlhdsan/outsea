@@ -8,7 +8,12 @@
 
 本教程分为 4 个 Part，请有需要的同志自取：
 
-1. Part 1 机场选购指南
-2. Part 2 AI 节点搭建指南
-3. Part 3 AI 入门指南
-4. Part 4 Emby 指南
+### 目录
+
+1. Part I 机场选购指南
+2. Part II AI 节点搭建指南
+3. Part III AI 入门指南
+4. Part IV Emby 指南
+
+
+## Part I
